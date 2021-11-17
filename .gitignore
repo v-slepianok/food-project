@@ -1,0 +1,10 @@
+**/*.log
+node_modules
+tmp
+lib
+.DS_Store
+.idea
+
+js/bundle.js
+js/bundle.js.LICENSE.txt
+js/bundle.js.map
